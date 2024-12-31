@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My blog</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Câu Lệnh Điều Khiển</title>
+      <link>https://example.com/tags/c%C3%A2u-l%E1%BB%87nh-%C4%91i%E1%BB%81u-khi%E1%BB%83n/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/c%C3%A2u-l%E1%BB%87nh-%C4%91i%E1%BB%81u-khi%E1%BB%83n/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Đa Hình</title>
+      <link>https://example.com/tags/%C4%91a-h%C3%ACnh/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/%C4%91a-h%C3%ACnh/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Đối Tượng</title>
+      <link>https://example.com/tags/%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Đóng Gói</title>
+      <link>https://example.com/tags/%C4%91%C3%B3ng-g%C3%B3i/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/%C4%91%C3%B3ng-g%C3%B3i/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>https://example.com/tags/index/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://example.com/tags/java/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/java/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kế Thừa</title>
+      <link>https://example.com/tags/k%E1%BA%BF-th%E1%BB%ABa/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/k%E1%BA%BF-th%E1%BB%ABa/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kiểu Dữ Liệu</title>
+      <link>https://example.com/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/ki%E1%BB%83u-d%E1%BB%AF-li%E1%BB%87u/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lập Trình</title>
+      <link>https://example.com/tags/l%E1%BA%ADp-tr%C3%ACnh/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/l%E1%BA%ADp-tr%C3%ACnh/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lớp</title>
+      <link>https://example.com/tags/l%E1%BB%9Bp/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/l%E1%BB%9Bp/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Phát Triển</title>
+      <link>https://example.com/tags/ph%C3%A1t-tri%E1%BB%83n/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/ph%C3%A1t-tri%E1%BB%83n/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Phương Thức</title>
+      <link>https://example.com/tags/ph%C6%B0%C6%A1ng-th%E1%BB%A9c/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/ph%C6%B0%C6%A1ng-th%E1%BB%A9c/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Xử Lý Ngoại Lệ</title>
+      <link>https://example.com/tags/x%E1%BB%AD-l%C3%BD-ngo%E1%BA%A1i-l%E1%BB%87/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/x%E1%BB%AD-l%C3%BD-ngo%E1%BA%A1i-l%E1%BB%87/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

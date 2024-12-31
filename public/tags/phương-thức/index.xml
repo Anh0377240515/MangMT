@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phương Thức on My blog</title>
+    <link>https://example.com/tags/ph%C6%B0%C6%A1ng-th%E1%BB%A9c/</link>
+    <description>Recent content in Phương Thức on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/ph%C6%B0%C6%A1ng-th%E1%BB%A9c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Phương thức trong Java</title>
+      <link>https://example.com/post/markdown-syntax/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/markdown-syntax/</guid>
+      
+        <description>Tìm hiểu cách định nghĩa và gọi phương thức trong Java</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exception Handling on My blog</title>
+    <link>http://localhost:55842/tags/exception-handling/</link>
+    <description>Recent content in Exception Handling on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55842/tags/exception-handling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Exception Handling</title>
+      <link>http://localhost:55842/post/rich-content/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55842/post/rich-content/</guid>
+      
+        <description>Learn how to handle exceptions in Java using try-catch blocks</description>
+      
+    </item>
+    
+  </channel>
+</rss>

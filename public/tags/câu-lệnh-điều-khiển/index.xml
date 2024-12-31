@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Câu Lệnh Điều Khiển on My blog</title>
+    <link>https://example.com/tags/c%C3%A2u-l%E1%BB%87nh-%C4%91i%E1%BB%81u-khi%E1%BB%83n/</link>
+    <description>Recent content in Câu Lệnh Điều Khiển on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/c%C3%A2u-l%E1%BB%87nh-%C4%91i%E1%BB%81u-khi%E1%BB%83n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Câu lệnh điều khiển trong Java</title>
+      <link>https://example.com/post/image-test/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/image-test/</guid>
+      
+        <description>Tìm hiểu các câu lệnh điều khiển như if, else, for, while trong Java</description>
+      
+    </item>
+    
+  </channel>
+</rss>

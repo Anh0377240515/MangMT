@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My blog</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Các kiểu dữ liệu trong Java</title>
+      <link>https://example.com/post/figure-shortcode/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/figure-shortcode/</guid>
+      
+        <description>Tìm hiểu về các kiểu dữ liệu trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Câu lệnh điều khiển trong Java</title>
+      <link>https://example.com/post/image-test/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/image-test/</guid>
+      
+        <description>Tìm hiểu các câu lệnh điều khiển như if, else, for, while trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Đóng gói trong Java</title>
+      <link>https://example.com/post/redirect/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/redirect/</guid>
+      
+        <description>Tìm hiểu cách đóng gói hoạt động trong Java để bảo vệ dữ liệu của một lớp</description>
+      
+    </item>
+    
+    <item>
+      <title>Giới thiệu về Java</title>
+      <link>https://example.com/post/emoji-support/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/emoji-support/</guid>
+      
+        <description>Hướng dẫn toàn diện về lập trình Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Kế thừa trong Java</title>
+      <link>https://example.com/post/notice-shortcode/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/notice-shortcode/</guid>
+      
+        <description>Tìm hiểu về kế thừa trong Java và cách các lớp có thể mở rộng từ các lớp khác</description>
+      
+    </item>
+    
+    <item>
+      <title>Lớp và Đối tượng trong Java</title>
+      <link>https://example.com/post/math-typesetting/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/math-typesetting/</guid>
+      
+        <description>Tìm hiểu về lớp và đối tượng trong Java, những khái niệm cơ bản của lập trình hướng đối tượng</description>
+      
+    </item>
+    
+    <item>
+      <title>Phương thức trong Java</title>
+      <link>https://example.com/post/markdown-syntax/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/markdown-syntax/</guid>
+      
+        <description>Tìm hiểu cách định nghĩa và gọi phương thức trong Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Tính đa hình trong Java</title>
+      <link>https://example.com/post/placeholder-text/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/placeholder-text/</guid>
+      
+        <description>Tìm hiểu cách tính đa hình hoạt động trong Java, cho phép một giao diện được sử dụng cho nhiều loại đối tượng khác nhau</description>
+      
+    </item>
+    
+    <item>
+      <title>Xử lý ngoại lệ trong Java</title>
+      <link>https://example.com/post/rich-content/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/rich-content/</guid>
+      
+        <description>Tìm hiểu cách xử lý ngoại lệ trong Java bằng các khối try-catch</description>
+      
+    </item>
+    
+  </channel>
+</rss>

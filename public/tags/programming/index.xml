@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming on My blog</title>
+    <link>http://localhost:55842/tags/programming/</link>
+    <description>Recent content in Programming on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:55842/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classes and Objects in Java</title>
+      <link>http://localhost:55842/post/math-typesetting/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55842/post/math-typesetting/</guid>
+      
+        <description>Learn about classes and objects in Java, the fundamental concepts of OOP</description>
+      
+    </item>
+    
+    <item>
+      <title>Control Flow Statements in Java</title>
+      <link>http://localhost:55842/post/image-test/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55842/post/image-test/</guid>
+      
+        <description>Understand control flow statements like if, else, for, while in Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Encapsulation in Java</title>
+      <link>http://localhost:55842/post/redirect/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55842/post/redirect/</guid>
+      
+        <description>Understand how encapsulation works in Java to protect the data of a class</description>
+      
+    </item>
+    
+    <item>
+      <title>Inheritance in Java</title>
+      <link>http://localhost:55842/post/notice-shortcode/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55842/post/notice-shortcode/</guid>
+      
+        <description>Learn about inheritance in Java and how classes can extend other classes</description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction to Java</title>
+      <link>http://localhost:55842/post/emoji-support/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55842/post/emoji-support/</guid>
+      
+        <description>A comprehensive guide to learning Java programming</description>
+      
+    </item>
+    
+    <item>
+      <title>Java Data Types</title>
+      <link>http://localhost:55842/post/figure-shortcode/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55842/post/figure-shortcode/</guid>
+      
+        <description>Learn about different data types in Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Java Exception Handling</title>
+      <link>http://localhost:55842/post/rich-content/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55842/post/rich-content/</guid>
+      
+        <description>Learn how to handle exceptions in Java using try-catch blocks</description>
+      
+    </item>
+    
+    <item>
+      <title>Methods in Java</title>
+      <link>http://localhost:55842/post/markdown-syntax/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55842/post/markdown-syntax/</guid>
+      
+        <description>Learn how to define and call methods in Java</description>
+      
+    </item>
+    
+    <item>
+      <title>Polymorphism in Java</title>
+      <link>http://localhost:55842/post/placeholder-text/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:55842/post/placeholder-text/</guid>
+      
+        <description>Learn how polymorphism works in Java, allowing one interface to be used for multiple object types</description>
+      
+    </item>
+    
+  </channel>
+</rss>

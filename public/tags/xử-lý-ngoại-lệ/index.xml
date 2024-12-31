@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xử Lý Ngoại Lệ on My blog</title>
+    <link>https://example.com/tags/x%E1%BB%AD-l%C3%BD-ngo%E1%BA%A1i-l%E1%BB%87/</link>
+    <description>Recent content in Xử Lý Ngoại Lệ on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/x%E1%BB%AD-l%C3%BD-ngo%E1%BA%A1i-l%E1%BB%87/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xử lý ngoại lệ trong Java</title>
+      <link>https://example.com/post/rich-content/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/rich-content/</guid>
+      
+        <description>Tìm hiểu cách xử lý ngoại lệ trong Java bằng các khối try-catch</description>
+      
+    </item>
+    
+  </channel>
+</rss>

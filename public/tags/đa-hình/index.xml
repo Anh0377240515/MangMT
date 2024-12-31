@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Đa Hình on My blog</title>
+    <link>https://example.com/tags/%C4%91a-h%C3%ACnh/</link>
+    <description>Recent content in Đa Hình on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/%C4%91a-h%C3%ACnh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tính đa hình trong Java</title>
+      <link>https://example.com/post/placeholder-text/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/placeholder-text/</guid>
+      
+        <description>Tìm hiểu cách tính đa hình hoạt động trong Java, cho phép một giao diện được sử dụng cho nhiều loại đối tượng khác nhau</description>
+      
+    </item>
+    
+  </channel>
+</rss>
